@@ -39,9 +39,9 @@ In this course, you'll learn the fundamentals of working with persistent data in
 
 ### Projects
 It's time to build your own. Draw on everything you've learned up to this point to create 5 different microservices, which are smaller applications that are limited in scope.
-  1stproject-timestamp
-  2ndproject-headerparser
-  3rdproject-urlshortener
-  4thproject-exercisetracker
-  5thproject-filemetadata
+  * 1stproject-timestamp
+  * 2ndproject-headerparser
+  * 3rdproject-urlshortener
+  * 4thproject-exercisetracker
+  * 5thproject-filemetadata
 
