@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://www.freecodecamp.org/learn">FreeCodeCamp</a></h1>
 
   <p align="center">
-  [https://www.freecodecamp.org/learn/back-end-development-and-apis/]( Back End Development and APIs Certification )
+  [https://www.freecodecamp.org/learn/back-end-development-and-apis/](Back End Development and APIs Certification)
     Build web applications with the Express framework, and build a People Finder microservice with MongoDB and the Mongoose library.  
 </p>
 
