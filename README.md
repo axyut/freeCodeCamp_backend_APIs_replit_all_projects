@@ -14,31 +14,34 @@
 * [Managing Packages with NPM](#npm)
 * [Basic Node and Express](#express)
 * [MongoDB and Mongoose](#mongodb)
-* [Back End Development and APIs Projects](#projects)
-  * [Projects](#all)
+* [Back End Development and APIs Projects](#development)
+  * [Projects](#projects)
 
 
 
 
-<!-- ABOUT THE PROJECT -->
 ## NPM
 
 In this course, you'll learn the basics of using npm, including how to work with the package.json and how to manage your installed dependencies.
 
-### Express
+## Express
 In this course, you'll learn the basics of Node and Express including how to create a server, serve different files, and handle different requests from the browser.
 
 
 
-<!-- GETTING STARTED -->
 ## MongoDB
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Development
 In this course, you'll learn the fundamentals of working with persistent data including how to set up a model, and save, delete, and find documents in the database.
 
 ### Projects
 It's time to build your own. Draw on everything you've learned up to this point to create 5 different microservices, which are smaller applications that are limited in scope.
+  1stproject-timestamp
+  2ndproject-headerparser
+  3rdproject-urlshortener
+  4thproject-exercisetracker
+  5thproject-filemetadata
 
